@@ -12,16 +12,18 @@
 ### 🛠️ Top Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/AI-000?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-000?style=for-the-badge&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-000?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/LLMs-000?style=for-the-badge&logo=huggingface" />
+  <img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws" />
   <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform" />
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-000?style=for-the-badge&logo=githubactions" />
+  <img src="https://img.shields.io/badge/CI%2FCD-000?style=for-the-badge&logo=githubactions" />
 </p>
 
 ---
@@ -43,11 +45,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-- 🚀 **Project One** — Short one-line description
-- 💡 **Project Two** — Short one-line description
-- 🛠️ **Project Three** — Short one-line description
 
 ---
 
