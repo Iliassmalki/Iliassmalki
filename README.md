@@ -4,7 +4,8 @@
 
 **Software Engineer — AI &amp; DevOps** · Casablanca 🇲🇦
 
-*I build LLM agents, and the cloud infrastructure they run on.*
+*I build LLM agents, the cloud infrastructure they run on,
+and the full-stack web apps around them.*
 
 [![Email](https://img.shields.io/badge/Email-121212?style=flat-square&logo=gmail&logoColor=white)](mailto:iliassmalki@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-121212?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iliass-malki-0794a5302/)
@@ -33,6 +34,8 @@
 ![Keycloak](https://img.shields.io/badge/Keycloak-008AAA?style=flat-square&logo=keycloak&logoColor=white)
 
 **Build**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
