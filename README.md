@@ -50,16 +50,17 @@
 **Agent Assist** — AI support platform across email, live calls and WhatsApp.
 `16 Terraform modules` `5 CI/CD pipelines` `6 services behind Keycloak zero-trust`
 
-**LCI Agent Assist** — multi-agent copilot inside Dynamics 365.
+**CRM Copilot** — multi-agent assistant embedded in a Dynamics 365 support desk.
 `LangGraph routing` `PII stripped pre-LLM` `feedback loop into Grafana`
 
 **Voice Agent** — autonomous French phone agent, no human in the loop.
 `Azure Realtime speech-to-speech` `9 tools` `hand-rolled SIP ↔ WebRTC bridge`
 
-**OLPA** — B2B commercial intelligence.
-`async crawl` `LLM synthesis` `Next.js 16`
+**Sales Intelligence Platform** — detects B2B buying signals and writes the sales brief.
+`async crawl` `LLM extraction` `agentic chat over the DB` `Next.js 16`
 
-**Doctolib MCP** — Selenium booking automation exposed as LLM-callable tools.
+**Booking MCP Server** — appointment automation exposed as LLM-callable tools.
+`FastMCP` `headless Selenium` `every Docker layer under 200 MB`
 
 ---
 
