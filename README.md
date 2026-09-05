@@ -14,7 +14,7 @@ and the full-stack web apps around them.*
 
 ---
 
-### Stack
+### What I know
 
 **AI**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -46,9 +46,9 @@ and the full-stack web apps around them.*
 
 ---
 
-### Work
+### What I've built
 
-> Eight AI systems in production at a BPO/CX group. Private repos.
+> Eight systems shipped to production — real users, real traffic, real Azure infra.
 
 **Agent Assist** — AI support platform across email, live calls and WhatsApp.
 `16 Terraform modules` `5 CI/CD pipelines` `6 services behind Keycloak zero-trust`
@@ -67,7 +67,7 @@ and the full-stack web apps around them.*
 
 ---
 
-### Public
+### What's public
 
 **[self-hosted-whatsapp-ai-assistant](https://github.com/Iliassmalki/self-hosted-whatsapp-ai-assistant)**
 AI answers your WhatsApp. No API key, no Meta subscription. · `Node.js`
